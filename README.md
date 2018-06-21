@@ -1,0 +1,3 @@
+# Funds Request Interface
+
+This is the start of my work on developing an interface for requesting funds. I haven't gotten a chance to do much. Yesterday, my schedule was packed and today is my daughter's birthday. I'm just going to create the repository and come back to this work tomorrow. I was hoping I could demonstrate some coding skills by today but I can't devote any more time to this until tomorrow.
